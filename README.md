@@ -3,6 +3,8 @@ Este repositorio no esta vinculado al desarrollo de Rascal Meta Programing Langu
 
 En caso de tener alguna duda adicional, por favor recurrir a la [documentación oficial](https://www.rascal-mpl.org/) / In case of you have another question, please see the [oficial documentation](https://www.rascal-mpl.org/)
 
+Si deseas añadir algo al repositorio o consideras que algo de lo cual se encuentra acá no es correcta o no es lo suficienteme explicativo, por favor dirigete a la sección de discuisiones y crea una nueva entreada / If you want to add something or you considere that a resour on this repository is wrong or not explaning, please go to discussions and create a new post
+
 Para las entregas y bifurcaciones de este repositorio relacionado con el curso elementos esenciales de lenguajes de programación, es recomendable que rellenen el siguiente formato:
 
 ISIS2111-Sección[#]

@@ -1,28 +1,67 @@
 Info of the planning DepartmentABC
 All Persons:
-       Alice
        Bob
-       Carol
-       Fred
-       Alice
        Bob
        Dave
+       Alice
+       Hank
+       Bob
+       Bob
+       Zoe
+       Frank
+       Eve
+       Dave
+       Alice
+       Ivan
+       Carol
+       Carol
+       Alice
+       Gina
+       Fred
+       Fred
+       Mia
        
 All actions of tasks:
 ======
-       Meeting with topic Demo 4 with duration: 90 m &
        Pay 5000 Euro 2  &
-       Meeting with topic Training 7 with duration: 3 d &
-       Lunch at location Canteen 8 with duration: 1 h &
-       Paper for journal Strategy 5  &
        Pay 3500 Euro 3  &
-       Paper for journal Overview 2 with duration: 9 w
+       Paper for journal Overview 2 with duration: 9 w &
+       Paper for journal UserStudy 6 with duration: 3 d &
+       Pay 1200 Euro 4  &
+       Lunch at location CafeteriaB 2 with duration: 1 h &
+       Meeting with topic Contract 7 with duration: 30 m &
+       Paper for journal Summary 9 with duration: 1 d &
+       Lunch at location MainCafeteria 5 with duration: 45 m &
+       Paper for journal AIResearch 6 with duration: 2 w &
+       Lunch at location Bistro 3 with duration: 1 h &
+       Meeting with topic Demo 4 with duration: 90 m &
+       Meeting with topic Roadmap 5 with duration: 4 h &
+       Pay 250 Euro 1  &
+       Meeting with topic Training 7 with duration: 3 d &
+       Paper for journal Strategy 5  &
+       Meeting with topic Budget Review 8 with duration: 2 h &
+       Pay 75 Euro 2  &
+       Lunch at location Canteen 8 with duration: 1 h &
+       Paper for journal UXNotes 4 with duration: 2 d
 =====
 Other way of listing all tasks:
-       Meeting with topic Demo 4 ,
        Pay 5000 Euro 2 ,
-       Meeting with topic Training 7 ,
-       Lunch at location Canteen 8 ,
-       Paper for journal Strategy 5 ,
        Pay 3500 Euro 3 ,
-       Paper for journal Overview 2
+       Paper for journal Overview 2 ,
+       Paper for journal UserStudy 6 ,
+       Pay 1200 Euro 4 ,
+       Lunch at location CafeteriaB 2 ,
+       Meeting with topic Contract 7 ,
+       Paper for journal Summary 9 ,
+       Lunch at location MainCafeteria 5 ,
+       Paper for journal AIResearch 6 ,
+       Lunch at location Bistro 3 ,
+       Meeting with topic Demo 4 ,
+       Meeting with topic Roadmap 5 ,
+       Pay 250 Euro 1 ,
+       Meeting with topic Training 7 ,
+       Paper for journal Strategy 5 ,
+       Meeting with topic Budget Review 8 ,
+       Pay 75 Euro 2 ,
+       Lunch at location Canteen 8 ,
+       Paper for journal UXNotes 4

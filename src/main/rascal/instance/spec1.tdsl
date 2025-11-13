@@ -5,3 +5,17 @@ Person Alice Task Meeting "Demo" priority: 4 duration: 90 min
 Person Carol Task Meeting "Training" priority: 7 duration: 3 day
 Person Dave Task Report Overview priority: 2 duration: 9 week
 Person Bob Task Pay 3500 euro priority: 3
+#Ejemplos adicionales
+Person Eve Task Report AIResearch priority: 6 duration: 2 week
+Person Frank Task Lunch MainCafeteria priority: 5 duration: 45 min
+Person Gina Task Meeting "Budget Review" priority: 8 duration: 2 hour
+Person Hank Task Pay 1200 euro priority: 4
+Person Alice Task Report UserStudy priority: 6 duration: 3 day
+Person Bob Task Meeting "Contract" priority: 7 duration: 30 min
+Person Carol Task Pay 250 euro priority: 1
+Person Dave Task Lunch Bistro priority: 3 duration: 1 hour
+Person Zoe Task Report Summary priority: 9 duration: 1 day
+Person Ivan Task Meeting "Roadmap" priority: 5 duration: 4 hour
+Person Mia Task Report UXNotes priority: 4 duration: 2 day
+Person Bob Task Lunch CafeteriaB priority: 2 duration: 1 hour
+Person Fred Task Pay 75 euro priority: 2
